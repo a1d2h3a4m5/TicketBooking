@@ -1,0 +1,97 @@
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\bin\Debug\QWC221.exe.config
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\bin\Debug\QWC221.exe
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\bin\Debug\QWC221.pdb
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.Form1.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.Properties.Resources.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.exe
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.pdb
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.Form3.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.Form4.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.Form5.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.HUserControl1.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.SFUserControl2.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.hUserControl3.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.tbForm6.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.doneForm6.resources
+C:\Users\dell\OneDrive\Desktop\QWC221\QWC221\obj\Debug\QWC221.tbForm62.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\QWC221.exe.config
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\QWC221.exe
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\QWC221.pdb
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.csproj.AssemblyReference.cache
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.csproj.SuggestedBindingRedirects.cache
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.doneForm6.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.Form1.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.Form3.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.Form5.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.Form6.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.hUserControl3.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.Properties.Resources.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.SFUserControl2.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.tbForm6.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.csproj.GenerateResource.cache
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.csproj.CoreCompileInputs.cache
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.exe
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.pdb
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.Customer.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.ticket.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.matches.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.seat.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.stadium.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\EnvDTE.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\stdole.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.REport.resources
+C:\Users\adham\source\repos\SF Pro\QWC221\obj\Debug\QWC221.csproj.CopyComplete
